@@ -40,11 +40,11 @@ let handler = async (m, { conn, participants, isBotAdmin }) => {
     let allJids = participants.map(p => p.jid);
 
     await conn.sendMessage(m.chat, {
-        text: "SIETE STATI SCOPATI DAI PIÙ FORTI CHE SONO TORNATI DAL QUIT QUINDI ORA ANDATE A PIANGERE ALL ANGOLO "
+        text: "adios gruppo👋 "
     });
 
     await conn.sendMessage(m.chat, {
-        text: `SIETE STATI SCOPATI DAI VOSTRI DEI DI WHATHSAPP E ORA SONO CAZZI VOSTRI `,
+        text: `dite bye bye al gruppo 👋`,
         mentions: allJids
     });
 
