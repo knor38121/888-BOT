@@ -25,15 +25,15 @@ global.browserless = "888"
 global.elixir = ['14153907884','393501989497','393804625661','xxxxxxxxxx','xxxxxxxxxx']
 
 let ownerData = [
-  ['393297014539', 'Elixir', true],
-  ['79524931364', 'Pusher', true],
-  ['17577575541', 'Axtral', true],   
-  ['447785114563', 'Dado', true],
-  ['393278863774', 'Dado2', true],     
+  ['393804625661', 'knor2', true],
+  ['14153907884', 'knor, true],
+  ['393501989497', 'endy', true],   
+  ['xxxxxxxxxx', 'xxx', true],
+  ['xxxxxxxxxx', 'xxx', true],     
 
 // ---- Owner LID ----
 
-  ['83245710491831', 'Axtral lid', true],
+  ['xxxxxxxxxx', 'xxx', true],
 
 ];
 
@@ -64,7 +64,7 @@ global.owner = normalizeOwnerList(ownerData)
 global.nomepack = '𝟴𝟴𝟴 𝗕𝗢𝗧'
 global.nomebot = '𝟴𝟴𝟴 𝗕𝗢𝗧'
 global.wm = '𝟴𝟴𝟴 𝗕𝗢𝗧'
-global.autore = 'The punisher'
+global.autore = 'knor+¹'
 global.dev = 'Elixir'
 global.testobot = `𝟴𝟴𝟴 𝗕𝗢𝗧`
 global.versione = pkg.version
