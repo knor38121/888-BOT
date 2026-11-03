@@ -28,7 +28,7 @@ let ownerData = [
   ['393804625661', 'knor2', true],
   ['14153907884', 'knor, true],
   ['393501989497', 'endy', true],   
-  ['xxxxxxxxxx', 'xxx', true],
+  ['393513766377', 'roby', true],
   ['xxxxxxxxxx', 'xxx', true],     
 
 // ---- Owner LID ----
@@ -61,18 +61,18 @@ for (const entry of fromFile) {
 global.owner = normalizeOwnerList(ownerData)
 
 
-global.nomepack = '𝟴𝟴𝟴 𝗕𝗢𝗧'
-global.nomebot = '𝟴𝟴𝟴 𝗕𝗢𝗧'
-global.wm = '𝟴𝟴𝟴 𝗕𝗢𝗧'
+global.nomepack = 'endy drogato'
+global.nomebot = 'endy ubriaco'
+global.wm = 'endy 6767'
 global.autore = 'knor+¹'
-global.dev = 'Elixir'
-global.testobot = `𝟴𝟴𝟴 𝗕𝗢𝗧`
+global.dev = 'roby'
+global.testobot = `enrico papi`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala` per avvisare gli owner.'
 
-global.repobot = 'https//wa.me/393206032199'
-global.canale = 'https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h'
-global.gruppo = 'https://chat.whatsapp.com/KqBeKHgrc53BNdvuPTKLTL'
+global.repobot = ''
+global.canale = ''
+global.gruppo = ''
 
 global.cheerio = cheerio
 global.fs = fs
